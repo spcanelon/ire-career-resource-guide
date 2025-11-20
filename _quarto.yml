@@ -1,0 +1,84 @@
+project:
+  type: website
+  title: "ire-career-resource-guide"
+  output-dir: docs
+
+website:
+  title: "IRE Career Resource Guide"
+  repo-url: https://github.com/spcanelon/ire-career-resource-guide
+  repo-actions: [issue, source]
+  page-footer: 
+    left: "Copyright 2025, IRE Career Task Force" 
+    right: 
+      - icon: github
+        href: https://github.com/spcanelon/ire-career-resource-guide
+  # navbar:
+  #   background: $tan-ire
+  #   left:
+  #     - href: index.qmd
+  #       text: About
+  #     - href: job_hunt.qmd
+  #       text: Job Hunt
+  #     - href: layoffs.qmd
+  #       text: Layoffs
+  #     - href: international.qmd
+  #       text: International
+  #     - href: mental_health.qmd
+  #       text: Mental Health
+  #     - href: legal.qmd
+  #       text: Legal Guide
+  #     - href: unionizing.qmd
+  #       text: Unionizing
+
+  sidebar:
+    # search: true
+    - title: "IRE Career<br>Resource Guide"
+      style: docked #floating
+      background: "#E5DED4" #$tan-ire
+      foreground: "#100F0D" #$dark-green-ire
+      border: false
+      pinned: true
+      tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/spcanelon/ire-career-resource-guide
+      # collapse-level: 1
+      contents:
+        - index.qmd
+        - layoffs.qmd
+        - international.qmd
+        - mental_health.qmd
+        - legal.qmd
+        - unionizing.qmd
+        - text: "---"
+        - about.qmd 
+
+format:
+  html:
+    theme:  # lumen united
+    - lumen
+    - custom.scss
+    mainfont: "Figtree"
+    fontsize: 1.3em
+    fontcolor: "#1A3B27" #$green-ire
+    # linkcolor: "#BF7836" #$gold-ire
+    toc: true
+    code-fold: true #show
+    code-tools: false
+    code-overflow: wrap
+    code-link: true
+    notebook-links: true
+    lightbox: true
+    grid:
+      sidebar-width: 325px
+
+execute:
+  freeze: auto
+
+editor_options:
+  chunk_output_type: console
+  
+callout-appearance: simple
+toc-expand: true
+toc-depth: 4
