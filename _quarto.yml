@@ -34,8 +34,8 @@ website:
     # search: true
     - title: "IRE Career<br>Resource Guide"
       style: docked #floating
-      background: "#E5DED4" #$tan-ire
-      foreground: "#100F0D" #$dark-green-ire
+      background: "#C0B6C6" #$ire-purple
+      foreground: "#1A1A1A" #$ire-dark-gray
       border: false
       pinned: true
       tools:
@@ -61,7 +61,7 @@ format:
     - custom.scss
     mainfont: "Figtree"
     fontsize: 1.3em
-    fontcolor: "#1A3B27" #$green-ire
+    fontcolor: "#1A1A1A" #$ire-dark-gray
     # linkcolor: "#BF7836" #$gold-ire
     toc: true
     code-fold: true #show
