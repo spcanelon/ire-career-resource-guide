@@ -37,3 +37,5 @@ listing:
 
 
 ## Other resources
+
+- [Job application tracking spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1GkHh6jghOmk6JNkrRrW5pBkTtdZHklYk6DfFs_Y0gmE/edit?usp=sharing)
