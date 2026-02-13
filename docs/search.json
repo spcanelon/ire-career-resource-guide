@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "unionizing.html",
+    "href": "unionizing.html",
+    "title": "Unionizing",
+    "section": "",
+    "text": "NewsGuild: Organize with us\nCommunication Workers of America: How to organize\nSAG-AFTRA steps to join\nThe Writers Guild of America East “contact an organizer” form\nSPJ Florida webinar: So your newsroom wants to unionize. Now what?\nLabor Notes is a good place to keep up with labor news in general, but it’s also a network of members, union leaders and labor activists who can be helpful during your organization process\nNieman Journalism Lab: How we unionized the digital team at The Seattle Times (and how you can do it at your company too)\nAFL-CIO “form a union” page\nUE’s five basic steps to organizing a union\n\n\nNote about AFL-CIO and UE: while we can’t organize under either of these names, the organizations have long and strong histories of successfully unionizing that we can learn from.",
+    "crumbs": [
+      "Unionizing"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -10,11 +20,21 @@
     ]
   },
   {
+    "objectID": "layoffs.html",
+    "href": "layoffs.html",
+    "title": "Layoffs",
+    "section": "",
+    "text": "Education Writers Association layoff webinar\nJournalist community aid network\nPoynter list of resources for laid off journalists\nSociety of Professional Journalists resources for laid off journalists\nLaid off to launch: a toolkit for journalists from News Revenue Hub\nFreelance Investigative Reporters and Editors (FIRE)\nThe Freelance Solidarity Project\nNotes from a Hired Pen - blog (and $10 e-book) by a freelancer of almost two decades on what worked and what didn’t in freelancing\nResources for journalists looking to start anew\nUnemployment filing links and instructions for every state\nSurviving Journalism Layoffs: Essential Tips for Recovery, by Janelle O’Dea",
+    "crumbs": [
+      "Layoffs"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Job Boards & Resources",
     "section": "",
-    "text": "investigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ninvestigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfreelance\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "investigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ninvestigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfreelance\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Job Boards & Resources"
     ]
@@ -24,7 +44,7 @@
     "href": "index.html#job-boards",
     "title": "Job Boards & Resources",
     "section": "",
-    "text": "investigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ninvestigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfreelance\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "investigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ninvestigative\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfreelance\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Job Boards & Resources"
     ]
@@ -34,7 +54,7 @@
     "href": "index.html#other-resources",
     "title": "Job Boards & Resources",
     "section": "Other resources",
-    "text": "Other resources",
+    "text": "Other resources\n\nJob application tracking spreadsheet (Google Sheet)",
     "crumbs": [
       "Job Boards & Resources"
     ]
