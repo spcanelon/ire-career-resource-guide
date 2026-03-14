@@ -46,7 +46,7 @@ website:
       # collapse-level: 1
       contents:
         - index.qmd
-        - layoffs.qmd
+        - job_resources.qmd
         - international.qmd
         - mental_health.qmd
         - legal.qmd

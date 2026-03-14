@@ -27,10 +27,10 @@
   path: https://www.nabjcareers.org/find-jobs/
 - title: "National Association of Hispanic Journalists"
   path: https://www.nahjcareers.org/
-- title: "Study Hall"
-  path: https://members.studyhall.xyz/sign-up
-  categories:
-    - freelance
+# - title: "Study Hall"
+#   path: https://members.studyhall.xyz/sign-up
+#   categories:
+#     - freelance
 
 
 

@@ -1,6 +1,16 @@
 ---
-title: "Layoffs"
+title: "Job Resources"
 ---
+
+## General
+
+- [Job application tracking spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1GkHh6jghOmk6JNkrRrW5pBkTtdZHklYk6DfFs_Y0gmE/edit?usp=sharing)
+
+### Freelance
+
+- Study Hall is a comprehensive resource for freelance pitch calls and media job openings - [https://members.studyhall.xyz/sign-up](https://members.studyhall.xyz/sign-up)
+
+### Navigating a layoff
 
 - [Education Writers Association layoff webinar](https://ewa.org/watch-and-listen/webinar/reporters-laid-off-tips-for-recovery)
  

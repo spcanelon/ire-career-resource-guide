@@ -30,12 +30,3 @@ listing:
 <!--   - Indigenous Journalists Association - [Jobs – IJA](https://indigenousjournalists.org/jobs/) -->
 <!--   - National Association of Black Journalists - [NABJ Career Center: Find Jobs](https://www.nabjcareers.org/find-jobs/) -->
 <!--   - National Association of Hispanic Journalists - [NAHJ Career Center: home](https://www.nahjcareers.org/) -->
-
-<!-- ### Freelance -->
-
-<!-- - Study Hall is one of the most comprehensive resources I’ve seen for freelance pitch calls and media job openings - [https://members.studyhall.xyz/sign-up](https://members.studyhall.xyz/sign-up) -->
-
-
-## Other resources
-
-- [Job application tracking spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1GkHh6jghOmk6JNkrRrW5pBkTtdZHklYk6DfFs_Y0gmE/edit?usp=sharing)
