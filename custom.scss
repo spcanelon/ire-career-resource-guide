@@ -2,13 +2,17 @@
 
 // Fonts
 
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 
 // Colors
 
-$link-color: #1A5988;
+$link-color: #1A5988; 
 
-a:hover {color: #FF0078; text-decoration: none;}
+a:hover {color: #FF0078 !important; text-decoration: none;}
 
 .blockquote {color: #4A305B !important;}
+
+h1 {font-weight: 700 !important;}
+
+.sidebar-title {line-height: 1.2em !important;}

@@ -1,5 +1,5 @@
 ---
-title: "Job Boards & Resources"
+title: "Job Boards"
 listing:
 - id: job-board
   contents:
@@ -8,10 +8,8 @@ listing:
   fields: [title, subtitle, categories]
   sort: "title"
   filter-ui: true
-  categories: unnumbered
+  categories: false # unnumbered
 ---
-
-## Job boards
 
 ::: {#job-board}
 :::

@@ -6,10 +6,10 @@ project:
 website:
   title: "IRE Career Resource Guide"
   repo-url: https://github.com/spcanelon/ire-career-resource-guide
-  repo-actions: [issue, source]
+  repo-actions: [issue]
   page-footer: 
-    left: "Copyright 2025, IRE Career Task Force" 
-    right: 
+    left: "Copyright 2026, IRE Career Task Force" 
+    right:
       - icon: github
         href: https://github.com/spcanelon/ire-career-resource-guide
   # navbar:
@@ -34,15 +34,15 @@ website:
     # search: true
     - title: "IRE Career<br>Resource Guide"
       style: docked #floating
-      background: "#C0B6C6" #$ire-purple
-      foreground: "#1A1A1A" #$ire-dark-gray
+      background: "#F4F3ED" #IRE eggshell
+      foreground: "#1A1A1A" #IRE dark gray
       border: false
       pinned: true
-      tools:
-      - icon: github
-        menu:
-          - text: Source Code
-            href: https://github.com/spcanelon/ire-career-resource-guide
+      # tools:
+      # - icon: github
+      #   menu:
+      #     - text: Source Code
+      #       href: https://github.com/spcanelon/ire-career-resource-guide
       # collapse-level: 1
       contents:
         - index.qmd
@@ -59,7 +59,7 @@ format:
     theme:  # lumen united
     - lumen
     - custom.scss
-    mainfont: "Figtree"
+    mainfont: "Roboto"
     fontsize: 1.3em
     fontcolor: "#1A1A1A" #$ire-dark-gray
     # linkcolor: "#BF7836" #$gold-ire
